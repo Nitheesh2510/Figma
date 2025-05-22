@@ -35,7 +35,7 @@ Figma
 ## CODE:
 ## PAGE 1
 ```html
-<div data-layer="iPhone 16 - 1" class="Iphone161" style="width: 440px; height: 806px; position: relative; background: white">
+<div data-layer="iPhone 16a - 1" class="Iphone16a1" style="width: 440px; height: 806px; position: relative; background: white">
   <img data-layer="image 1" class="Image1" style="width: 440px; height: 956px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/440x956" />
   <img data-layer="image 2" class="Image2" style="width: 599px; height: 82px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/599x82" />
   <div data-layer="WELCOME TO OUR ANNUAL SPORTS MEET" class="WelcomeToOurAnnualSportsMeet" style="width: 500px; height: 68px; left: 0px; top: 201px; position: absolute; color: white; font-size: 23px; font-family: Jua; font-weight: 400; word-wrap: break-word">WELCOME TO OUR ANNUAL SPORTS MEET</div>
@@ -44,7 +44,7 @@ Figma
 
 ## PAGE 2
 ```html
-<div data-layer="iPhone 16 - 2" class="Iphone162" style="width: 440px; height: 806px; position: relative; background: white">
+<div data-layer="iPhone 16a - 2" class="Iphone16a2" style="width: 440px; height: 806px; position: relative; background: white">
   <img data-layer="image 1" class="Image1" style="width: 440px; height: 956px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/440x956" />
   <img data-layer="image 2" class="Image2" style="width: 599px; height: 82px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/599x82" />
   <div data-layer="EVENTS" class="Events" style="width: 188px; height: 147px; left: 130px; top: 159px; position: absolute; color: white; font-size: 48px; font-family: Jua; font-weight: 400; word-wrap: break-word">EVENTS<br/></div>
@@ -59,7 +59,7 @@ Figma
 
 ## PAGE 3
 ```html
-<div data-layer="iPhone 16 - 3" class="Iphone163" style="width: 440px; height: 806px; position: relative; background: white">
+<div data-layer="iPhone 16a - 3" class="Iphone16a3" style="width: 440px; height: 806px; position: relative; background: white">
   <img data-layer="image 1" class="Image1" style="width: 440px; height: 956px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/440x956" />
   <img data-layer="image 2" class="Image2" style="width: 599px; height: 82px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/599x82" />
   <div data-layer="REGISTRATION FORM" class="RegistrationForm" style="width: 733px; height: 50px; left: -314px; top: 146px; position: absolute; text-align: right; color: white; font-size: 40px; font-family: Karma; font-weight: 600; word-wrap: break-word">REGISTRATION FORM</div>
@@ -90,7 +90,7 @@ Figma
 
 ## PAGE 4
 ```html
-<div data-layer="iPhone 16 - 1" class="Iphone161" style="width: 440px; height: 806px; position: relative; background: white">
+<div data-layer="iPhone 16a - 1" class="Iphone16a1" style="width: 440px; height: 806px; position: relative; background: white">
   <img data-layer="image 1" class="Image1" style="width: 440px; height: 956px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/440x956" />
   <img data-layer="image 2" class="Image2" style="width: 599px; height: 82px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/599x82" />
   <div data-layer="CONTACT" class="Contact" style="width: 500px; height: 68px; left: 129px; top: 155px; position: absolute; color: white; font-size: 36px; font-family: Jua; font-weight: 400; word-wrap: break-word">CONTACT</div>
